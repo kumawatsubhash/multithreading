@@ -1,0 +1,5 @@
+/usr/bin/ld: /tmp/cct9HgL4.o: in function `checkThreadCreation':
+/home/subhash/Desktop/multithreading/testMutex.c:10: multiple definition of `checkThreadCreation'; /tmp/ccjNlH55.o:/home/subhash/Desktop/multithreading/testBasics.c:7: first defined here
+/usr/bin/ld: /tmp/cct9HgL4.o: in function `main':
+/home/subhash/Desktop/multithreading/testMutex.c:26: multiple definition of `main'; /tmp/ccjNlH55.o:/home/subhash/Desktop/multithreading/testBasics.c:16: first defined here
+collect2: error: ld returned 1 exit status
